@@ -1,4 +1,4 @@
-### こんにちわ、映画 👋
+### Hi there 👋
 
 <!--
 **apteryxf/apteryxf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

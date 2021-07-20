@@ -1,4 +1,4 @@
 - 🔭 I’m currently working on Node.js and React.js
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about Movie
-- ⚡ Fun fact: Marvel Cinematic Universe
+- ⚡ Fun fact: Marvel Cinematic Universe and walking!
